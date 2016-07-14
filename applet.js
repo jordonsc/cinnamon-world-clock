@@ -78,7 +78,7 @@ WorldClock.prototype = {
 
     // This updates the numerical display in the applet and in the tooltip and background colour of applet
     updateUI: function () {
-        var offset = parseInt(this.timezone);
+        var offset = parseFloat(this.timezone);
         var d = new Date();
 
         var utc = d.getTime() + (d.getTimezoneOffset() * 60000);

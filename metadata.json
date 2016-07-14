@@ -4,5 +4,5 @@
     "description": "Display multiple timezones in the system tray", 
     "uuid": "worldclock@jordon", 
     "name": "World Clock",
-    "icon": "force-exit"
+    "icon": "clock"
 }
