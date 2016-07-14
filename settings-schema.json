@@ -1,0 +1,19 @@
+{
+    "head": {
+        "type": "header",
+        "description": "Time Zone"
+    },
+    "label": {
+        "type": "entry",
+        "default": "UTC",
+        "description": "Short name for clock",
+        "tooltip": "A short display name for the clock, displayed next to the time in system tray"
+    },
+    "timezone": {
+        "type": "entry",
+        "default": "0",
+        "description": "Timezone offset in hours",
+        "tooltip": "GMT offset applied to this clock in hours"
+    }
+}
+

@@ -1,0 +1,8 @@
+{
+    "max-instances": "15", 
+    "last-edited": "1378710499", 
+    "description": "Display multiple timezones in the system tray", 
+    "uuid": "worldclock@jordon", 
+    "name": "World Clock",
+    "icon": "force-exit"
+}
